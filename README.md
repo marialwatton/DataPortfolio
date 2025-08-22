@@ -25,13 +25,11 @@ Using **K-Means Clustering** to group F1 drivers from the last 50 years based on
 
 ## 🛠 Skills
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Beginner-blue?logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?logo=google-bigquery&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-
+- **Languages** SQL, Python (Beginner Level)
+- **Visualisation** Power BI
+- **Machine Learning** Linear Regression, K Means Clustering
+- **Tools** GA4, BigQuery, Databricks, PowerBI, GitHub
+- 
 ---
 
 ## 📬 Contact
