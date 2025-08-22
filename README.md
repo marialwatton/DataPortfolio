@@ -9,7 +9,6 @@ I work mainly with SQL and Power BI but I am learning Python and getting more co
 ---
 
 ## 📂 Projects
-![Projects](https://img.shields.io/badge/Projects-📂-blue)
 ### 1. F1 Driving Syles 🏁
 Using K Means clustering to group F1 drivers from the last 50 years based on their driving style and performance.
 [View Project](https://github.com/yourusername/customer-churn)
