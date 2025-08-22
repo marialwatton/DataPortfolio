@@ -16,8 +16,10 @@ I’m passionate about using data to uncover insights and create impactful visua
 
 ### 🏁 F1 Driving Styles
 Using **K-Means Clustering** to group F1 drivers from the last 50 years based on their driving style and performance.  
+
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)  
+
 [🔗 View Project](https://github.com/yourusername/f1-driving-styles)
 
 *(More projects coming soon!)*
