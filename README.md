@@ -2,11 +2,6 @@
   <img src="images/header.png" width="100%" /> <!--makes it stretch across the full content width. --!>
 </p>
 
-# Hi, I'm Maria! 👋
-*Senior Digital Analytics Developer | Data Science Student*  
-
----
-
 ## 📖 About Me
 I work mainly with **SQL** and **Power BI**, but I’m learning **Python** and expanding my skills in machine learning and data science processes.  
 I’m passionate about using data to uncover insights and create impactful visualizations.  
