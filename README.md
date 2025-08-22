@@ -1,4 +1,4 @@
-![Header](images/header.png)   <!-- Banner goes here -->
+![Header](github-header-banner (4).png)  <!-- Banner goes here -->
 
 # Hi, I'm Maria! 👋
 *Senior Digital Analytics Developer | Data Science Student*  
