@@ -28,7 +28,7 @@ Using **K-Means Clustering** to group F1 drivers from the last 50 years based on
 
 ## 🛠 Skills
 
-I am continuously working to improve my sklls to furthermyself in the Data Science world. Please see below my current selection of skills I have to offer from my current data journey:
+I am continuously working to improve my sklls to further myself in the Data Science world. Please see below my current selection of skills I have to offer from my current data journey:
 
 - **Languages** SQL, Python (Beginner Level)
 - **Visualisation** Power BI
