@@ -1,4 +1,6 @@
-![Header](github-header-banner (4).png)  <!-- Banner goes here -->
+<p align="center">  <!--starts a paragraph and tells GitHub “center everything inside me. --!>
+  <img src="images/header.png" width="100%" /> <!--makes it stretch across the full content width. --!>
+</p>
 
 # Hi, I'm Maria! 👋
 *Senior Digital Analytics Developer | Data Science Student*  
@@ -29,7 +31,7 @@ Using **K-Means Clustering** to group F1 drivers from the last 50 years based on
 - **Visualisation** Power BI
 - **Machine Learning** Linear Regression, K Means Clustering
 - **Tools** GA4, BigQuery, Databricks, PowerBI, GitHub
-- 
+
 ---
 
 ## 📬 Contact
