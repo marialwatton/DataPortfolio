@@ -2,6 +2,12 @@
   <img src="github-header-banner (4).png" width="100%" /> 
 </p>
 
+## 📑 Table of Contents
+- [About Me](#about-me)
+- [Projects](#projects)
+- [Skills](#skills)
+- [Contact](#contact)
+- 
 ## 📖 About Me
 I work mainly with **SQL** and **Power BI**, but I’m learning **Python** and expanding my skills in machine learning and data science processes.  
 I’m passionate about using data to uncover insights and create impactful visualizations.  
