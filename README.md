@@ -3,10 +3,8 @@
 </p>
 
 ## 📑 Table of Contents
-- [About Me](#about-me)
-- [Projects](#projects)
-- [Skills](#skills)
-- [Contact](#contact)
+
+[About Me](about.md) | [Projects](projects.md) | [Contact](contact.md)
   
 ## 📖 About Me
 I work mainly with **SQL** and **Power BI**, but I’m learning **Python** and expanding my skills in machine learning and data science processes.  
