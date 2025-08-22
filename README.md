@@ -1,5 +1,5 @@
-<p align="center">  <!--starts a paragraph and tells GitHub “center everything inside me. --!>
-  <img src="images/header.png" width="100%" /> <!--makes it stretch across the full content width. --!>
+<p align="center">  
+  <img src="images/header.png" width="100%" /> 
 </p>
 
 ## 📖 About Me
