@@ -1,0 +1,6 @@
+title: Maria's Data Science Portfolio
+description: Projects and work by Maria, Senior Digital Analytics Developer
+author: Maria
+baseurl: ""        # leave empty unless using a subfolder
+url: "https://yourusername.github.io"  # your GitHub Pages URL
+theme: jekyll-theme-cayman             # simple default Jekyll theme
