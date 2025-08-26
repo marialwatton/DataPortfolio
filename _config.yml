@@ -1,10 +1,3 @@
-title: "Maria's Data Science Portfolio"
-description: "Portfolio of Maria, Senior Digital Analytics Developer"
-author: "Maria"
-baseurl: "" 
-url: "https://marialwatton.github.io/DataPortfolio"
-theme: jekyll-theme-slate
-
 # Sidebar/About Me
 about:
   name: "Maria"
