@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="images/header.png" alt="Banner" style="width:100%; max-height:200px; object-fit:cover;">
+</p>
+
+## 👋 About Me
+<p align="left">
+  <img src="images/myself.png" alt="Maria" width="100"/>
+</p>
+I work mainly with **SQL** and **Power BI**, but I’m learning **Python** and expanding my skills in machine learning and data science processes.  
+I’m passionate about using data to uncover insights and create impactful visualisations.  
 
 ## 📖 Education
 I work mainly with **SQL** and **Power BI**, but I’m learning **Python** and expanding my skills in machine learning and data science processes.  
