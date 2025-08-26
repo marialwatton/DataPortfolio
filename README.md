@@ -1,5 +1,5 @@
 <p align="center">  
-  <img src="github-header-banner (4).png" width="100%" /> 
+  <img src="header.png" width="100%" /> 
 </p>
 
 ## 📑 Table of Contents
@@ -7,6 +7,7 @@
 [👋 About Me](#About-Me) | [📖 Education](#Education) | [📂 Projects](#Projects) | [🛠 Skills](#Skills) | [📬 Contact](#Contact)
   
 ## 👋 About Me
+<img src="header.png"> 
 I work mainly with **SQL** and **Power BI**, but I’m learning **Python** and expanding my skills in machine learning and data science processes.  
 I’m passionate about using data to uncover insights and create impactful visualisations.  
 
