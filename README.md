@@ -13,11 +13,11 @@ I’m passionate about using data to uncover insights and create impactful visua
 ---
 ## 📖 Education
 
-Level 6 - Data Science Degreee (*In Progress*)
+**Level 6 - Data Science Degree** (*In Progress*)
 
-Level 4 - Project Management 
+**Level 4 - Project Management** 
 
-3 A Levels
+**3 A Levels**
 
 ---
 
