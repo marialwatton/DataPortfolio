@@ -1,7 +1,13 @@
-<p align="center">  
-  <img src="images/header.png" width="100%" /> 
+layout: default
+title: Home
+---
+
+<p align="center">
+  <img src="images/header.png" alt="Banner" style="width:100%; max-height:200px; object-fit:cover;">
 </p>
 
+# 👋 Hi, I'm Maria!
+*Senior Digital Analytics Developer | Data Science Student*
 ## 📑 Table of Contents
 
 [👋 About Me](#About-Me) | [📖 Education](#Education) | [📂 Projects](#Projects) | [🛠 Skills](#Skills) | [📬 Contact](#Contact)
