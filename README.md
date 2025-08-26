@@ -6,12 +6,16 @@
 <p align="left">
   <img src="images/myself.png" alt="Maria" width="100"/>
 </p>
+
 I work mainly with **SQL** and **Power BI**, but I’m learning **Python** and expanding my skills in machine learning and data science processes.  
 I’m passionate about using data to uncover insights and create impactful visualisations.  
 
+---
 ## 📖 Education
-I work mainly with **SQL** and **Power BI**, but I’m learning **Python** and expanding my skills in machine learning and data science processes.  
-I’m passionate about using data to uncover insights and create impactful visualisations.  
+
+Level 6 - Data Science Degreee (*In Progress*)
+Level 4 - Project Management 
+3 A Levels
 
 ---
 
