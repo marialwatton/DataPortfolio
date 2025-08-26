@@ -7,7 +7,7 @@
 [👋 About Me](#About-Me) | [📖 Education](#Education) | [📂 Projects](#Projects) | [🛠 Skills](#Skills) | [📬 Contact](#Contact)
   
 ## 👋 About Me
-<img src="images/myself.png"> 
+<img src="images/myself.jpg"> 
 I work mainly with **SQL** and **Power BI**, but I’m learning **Python** and expanding my skills in machine learning and data science processes.  
 I’m passionate about using data to uncover insights and create impactful visualisations.  
 
