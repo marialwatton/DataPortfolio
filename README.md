@@ -4,9 +4,15 @@
 
 ## 📑 Table of Contents
 
-[📖 About Me](#about-me) | [📂 Projects](#projects) | [🛠 Skills](#skills) | [📬 Contact](#contact)
+[👋 About Me](#About-Me) | [📖 Education](#Education) | [📂 Projects](#Projects) | [🛠 Skills](#Skills) | [📬 Contact](#Contact)
   
-## 📖 About Me
+## 👋 About Me
+I work mainly with **SQL** and **Power BI**, but I’m learning **Python** and expanding my skills in machine learning and data science processes.  
+I’m passionate about using data to uncover insights and create impactful visualisations.  
+
+---
+
+## 📖 Education
 I work mainly with **SQL** and **Power BI**, but I’m learning **Python** and expanding my skills in machine learning and data science processes.  
 I’m passionate about using data to uncover insights and create impactful visualisations.  
 
@@ -38,8 +44,8 @@ I am continuously working to improve my sklls to further myself in the Data Scie
 ---
 
 ## 📬 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/yourname)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/yourusername)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/maria-watton-5bbb4a279)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://marialwatton.github.io/DataPortfolio/)  
 
 ---
 
