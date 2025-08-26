@@ -1,0 +1,17 @@
+title: Maria's Data Science Portfolio
+description: Portfolio of Maria, Data Analytics Developer
+author: Maria
+baseurl: "" 
+url: "https://yourusername.github.io"
+theme: jekyll-theme-slate   # example theme with sidebar support
+
+# Sidebar navigation
+nav:
+  - title: About Me
+    url: /about
+  - title: Projects
+    url: /projects
+  - title: Skills
+    url: /skills
+  - title: Contact
+    url: /contact
