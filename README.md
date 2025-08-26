@@ -29,7 +29,7 @@ Using **K-Means Clustering** to group F1 drivers from the last 50 years based on
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)  
 
-[🔗 View Project](https://github.com/yourusername/f1-driving-styles)
+[🔗 View Project](https://github.com/marialwatton/Formula_One_Driving_Styles)
 
 *(More projects coming soon!)*
 
