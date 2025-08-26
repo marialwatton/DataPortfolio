@@ -8,10 +8,10 @@ theme: jekyll-theme-slate   # example theme with sidebar support
 # Sidebar navigation
 nav:
   - title: About Me
-    url: /about
+    url: /#About-Me
   - title: Projects
-    url: /projects
+    url: /#Projects
   - title: Skills
-    url: /skills
+    url: /#Skills
   - title: Contact
-    url: /contact
+    url: /#Contact
