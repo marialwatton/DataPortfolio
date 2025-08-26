@@ -47,7 +47,7 @@ I am continuously working to improve my sklls to further myself in the Data Scie
 ---
 
 ## 📬 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/maria-watton-5bbb4a279)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/maria-watton-5bbb4a279)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://marialwatton.github.io/DataPortfolio/)  
 
 ---
