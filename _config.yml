@@ -5,13 +5,13 @@ baseurl: ""
 url: "https://marialwatton.github.io/DataPortfolio"
 theme: jekyll-theme-slate   # example theme with sidebar support
 
-# Sidebar navigation
-nav:
-  - title: About Me
-    url: /#About-Me
-  - title: Projects
-    url: /#Projects
-  - title: Skills
-    url: /#Skills
-  - title: Contact
-    url: /#Contact
+## 📑 Table of Contents
+
+[👋 About Me](#About-Me) | [📖 Education](#Education) | [📂 Projects](#Projects) | [🛠 Skills](#Skills) | [📬 Contact](#Contact)
+  
+## 👋 About Me
+<p align="left">
+  <img src="images/myself.png" alt="Maria" width="100"/>
+</p>
+I work mainly with **SQL** and **Power BI**, but I’m learning **Python** and expanding my skills in machine learning and data science processes.  
+I’m passionate about using data to uncover insights and create impactful visualisations.  
