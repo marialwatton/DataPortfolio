@@ -1,3 +1,8 @@
+---
+layout: default
+title: Maria's Data Science Portfolio
+---
+
 <p align="center">
   <img src="images/header.png" alt="Banner" style="width:100%; max-height:200px; object-fit:cover;">
 </p>
